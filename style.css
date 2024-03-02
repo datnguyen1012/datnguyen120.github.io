@@ -1,0 +1,13 @@
+a {
+    color: #267CB9;
+    text-decoration: none; /* Loại bỏ gạch dưới */
+}
+  header {
+    text-align: center; /* Căn giữa nội dung trong header */
+}
+
+header img {
+    display: block; /* Để hình ảnh trở thành một khối phần tử, để có thể sử dụng margin: auto; */
+    margin: auto; /* Căn giữa theo chiều ngang */
+}
+
